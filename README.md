@@ -29,5 +29,5 @@
 ### Сборка и запуск локально
 1. Клонировать репозиторий:
 ```bash
-git clone https://github.com/ваш-username/inventory-system.git
+git clone https://github.com/kekmakeklich/inv-sys1.git
 cd inventory-system
